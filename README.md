@@ -1,6 +1,6 @@
 # DLMI-Brain-cancer-seg
 ## Dataset 
-- Dataset:  from BraTS 2016 and 2017 ([download here](http://medicaldecathlon.com/index.html.))
+- Dataset:  from BraTS 2016 and 2017 ([download here](http://medicaldecathlon.com/index.html))
 - Patient: 750 multi-parametric magnetic resonance imaging (MRI) scans from patients diagnosed with either glioblastoma or lower-grade glioma were included
 - Multi-modality: The multi-para-metric MRI sequences of each patient included native (T1) and post-Gadolinium contrast T1-weighted (T1-Gd), native T2-weighted (T2), and T2 Fluid- Attenuated Inversion Recovery (T2-FLAIR) volumes.
 
